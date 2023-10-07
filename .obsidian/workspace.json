@@ -11,8 +11,12 @@
             "id": "dc9d775cc4646eae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "balls/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "balls/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "balls/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "balls/Untitled.md"
+              }
             }
           },
           {
@@ -149,8 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c83de0c1be51d73",
+  "active": "dc9d775cc4646eae",
   "lastOpenFiles": [
+    "balls/balls.md",
+    "balls/Untitled.md",
+    "balls",
     "Note Taking/Classes/Adrenokin.md",
     "Test File/balls.md",
     "Test File/balls.txt",
@@ -180,15 +191,12 @@
     "Chimera/7. General World Information/6. Stealth.md",
     "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
     "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
-    "Chimera/9. Combat/4. Using Cover.md",
-    "Chimera/3. Customizing Your Character/1. Equipment/2. Armor.md",
     "ChimeraPDF/Chimera PDF Edits",
     "SizeChart1.png",
     "ChimeraPDF",
     "Chimera/10. Combat/4. Damage  Healing",
     "Chimera/2. Making Your Character/1. Traits, Health, & Poise/1. Traits",
     "SynergyProgressionChart1.png",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons",
     "PoiseFlowchart1.png"
   ]
 }

@@ -1,0 +1,21 @@
+Level 1
+Prowess Dice | Long Blade
+	You have 1 Prowess Die when using a Long Blade weapon. You get an additional Prowess Die at levels 4, 8, 12, and 16.
+Superior Parrying
+	You can expend your Long Blade Prowess Dice on the Parry action when using a Long Blade weapon. Additionally, you can parry ranged attacks with a Long Blade weapon.
+
+Level 3
+Relentless Slashes
+	For every subsequent Strike or Plunge action with a Long Blade weapon after you take a Strike or Plunge action with a Long Blade weapon during your turn, you apply 1 Positive Die to the roll.
+
+Level 7
+Plunge | 5 Poise points | Attack action
+	When taking the Plunge action, roll a Strength or Dexterity Long Blade weapon attack against the target. If the total meets or exceeds the target's Hit VT they take the weapon's damage and are grappled by you as if by the Grapple action. In addition to the normal grappled effects, for every tile the target moves it takes 1 bleed damage. If this grapple is ended, the target gains the Hemorrhaged status effect. While grappling a target in this way you cannot use your weapon to take any other action than the Strike action against the target you're grappling.
+
+Level 11
+Extra Slash
+	When you take your first Strike or Plunge action with a Long Blade weapon during your turn you can choose to roll only your Long Blade Prowess Dice for the action. When taking the Strike or Plunge action in this way you do not need to expend any Trait Dice and you must roll all your Prowess Dice. Using your Long Blade Prowess Dice in this way does not expend them.
+
+Level 15
+Thousand Cuts
+	Successful Disarm and Parry actions taken with a Long Blade weapon deal weapon damage. Additionally, for every attack action using a Long Blade weapon after the first attack action during your turn you deal an additional 1d8 bleed damage.

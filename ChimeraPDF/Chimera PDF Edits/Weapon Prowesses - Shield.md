@@ -1,0 +1,21 @@
+Level 1
+Prowess Dice | Shield
+	You have 1 Prowess Die when using a Shield. You get an additional Prowess Die at levels 4, 8, 12, and 16.
+Superior Blocking
+	You can expend your Shield Prowess Dice on the Block action when using a shield. Additionally, when you wield a shield it is considered a melee weapon that has a 1tl. range and deals 1d6+STR blunt damage.
+
+Level 3
+Extra Block
+	When you take your first Block action with a shield during a round you can choose to roll only your Shield Prowess Dice for the action. When taking the Block action in this way you do not need to expend any Trait Dice and you must roll all your Prowess Dice. Using your Shield Prowess Dice in this way does not expend them.
+
+Level 7
+Bash | 5 Poise points | Attack action
+	When taking the Bash action, roll a Strength Shield melee attack against the target. If the total meets or exceeds the target's Hit VT they take the shield's damage, are moved 1 tile away from you, and gain the Staggered 3 status effect. This attack action does not commit you to Strength Trait Dice for the remainder of your turn.
+
+Level 11
+Block Riposte
+	Immediately after you force an attack action to miss with a block you can take the Strike action against the blocked creature with an added 2 Positive Dice. Additionally, when you force a Strike action to miss with the Block action you can disarm their weapon as if by the Disarm action by expending 2 Strength Trait Dice.
+
+Level 15
+Shield Mastery
+	A successful Block action against a melee hit deals the shield's damage to the target. Additionally, a successful Strike or Bash action with a shield knocks the target Prone and expends 3 of its maximum movement.

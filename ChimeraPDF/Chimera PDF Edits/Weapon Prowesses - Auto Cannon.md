@@ -1,0 +1,25 @@
+Level 1
+Prowess Dice | Cannon
+	You have 1 Prowess Die when using an Auto Cannon weapon. You get an additional Prowess Die at levels 4, 8, 12, and 16.
+Heavy Machinery Operator
+	When reloading an Auto Cannon weapon the reload cost is 1 less Trait Die for every Auto Cannon Prowess Die you have. You deal double damage to inanimate structures and objects with Auto Cannon weapons. Additionally, when taking a defensive action against a Disarm action targeted at an Auto Cannon weapon you're holding you can add the total sum of your Strength Trait Dice doubled to the roll.
+
+Level 3
+Raining Casings
+	When taking the Strike action with an Auto Cannon weapon you can expend multiple shots as part of the same action, each shots deals the weapon's damage dice but the damage modifier is only applied once like normal. For every shot after the first your weapon begins to overheat, applying a -2 penalty to the damage dealt. This penalty is cumulative and persists until the weapon is reloaded to its maximum magazine capacity.
+
+Level 7
+Sustain Fire | 5 Poise points | Attack action
+	When taking the Sustain Fire action, expend half or more of the total shots in your magazine and roll a Perception Auto Cannon weapon attack. Until the start of your next turn as long as you're holding your weapon you shoot a continuous stream of bullets in a line as long as your weapon's effective range. As part of this action you designate an area you're sustaining fire on. Any creature that's currently in, or that enters into, this line takes damage equal to your weapon's damage multiplied by the amount of shots expended and has its maximum movement tile type reduced by the amount of shots expended. You can designate a new sustained fire area and move the line by taking the Search action, which when taken this way you can do while it isn't your turn. When you re-designate the sustained area you briefly stop firing to re-orient your weapon. The initial weapon attack, and any subsequent Search actions, set the challenge VT for defensive actions against this attack. After taking this action taking any action other than the Search action to re-designate the line ends the sustained fire. This action cannot be blocked and cannot critically succeed.
+
+Level 11
+Unyielding Monument
+	You can add your Strength Trait Dice to your Auto Cannon weapon attack rolls in addition to Perception and your Prowess Dice. Using either or both does not limit you to either Trait type for the rest of your turn. Additionally, after taking an attack action with an Auto Cannon weapon, actions attempting to force you to involuntarily move like the Shove action apply 3 Negative Dice.
+
+Level 15
+Relentless Torrent
+	There is no damage penalty for expending additional shots with "Raining Casings", the Sustain Fire action cannot be dodged, and you deal triple damage to inanimate structures instead of double.
+
+
+
+

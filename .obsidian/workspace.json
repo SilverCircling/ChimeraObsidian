@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/1. Introduction/1. What Is Chimera.md",
+                "file": "Chimera/7. General World Information/4. Sizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/1. Introduction/1. What Is Chimera.md",
+                "file": "Chimera/7. General World Information/4. Sizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/1. Introduction/1. What Is Chimera.md",
+                "file": "Chimera/7. General World Information/4. Sizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/1. Introduction/1. What Is Chimera.md"
+                "file": "Chimera/7. General World Information/4. Sizes.md"
               }
             }
           },
@@ -159,6 +159,12 @@
   },
   "active": "dc9d775cc4646eae",
   "lastOpenFiles": [
+    "Chimera/7. General World Information/6. Stealth.md",
+    "Chimera/9. Combat/3. Actions In Combat.md",
+    "Chimera/9. Combat/4. Using Cover.md",
+    "Chimera/9. Combat/5. Damage, Healing, and Dying.md",
+    "Chimera/9. Combat/6. Damage Types & Status Effects.md",
+    "Chimera/1. Introduction/1. What Is Chimera.md",
     "balls/Untitled.md",
     "balls/balls.md",
     "balls",
@@ -169,8 +175,6 @@
     "Test File/New Text Document.txt",
     "Test File",
     "New folder",
-    "Chimera/9. Combat/5. Damage, Healing, and Dying.md",
-    "Chimera/9. Combat/6. Damage Types & Status Effects.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/1. Handgun.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/5. Auto Cannon.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/4. Shotgun.md",
@@ -183,14 +187,10 @@
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/3. Short Blade.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/2. Long Blade.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
-    "Chimera/9. Combat/3. Actions In Combat.md",
     "Chimera/6. Socializing/2. Sentient NPCs.md",
     "Chimera/6. Socializing/1. Using Social Traits.md",
     "Chimera/7. General World Information/3. Creature Types.md",
     "Chimera/7. General World Information/5. Area of Effects.md",
-    "Chimera/7. General World Information/6. Stealth.md",
-    "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
-    "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
     "ChimeraPDF/Chimera PDF Edits",
     "SizeChart1.png",
     "ChimeraPDF",

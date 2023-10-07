@@ -1,6 +1,0 @@
-Class Type: Offense
-Creature Type: Cyborg
-
-The rhythmic sound of Amelie's heartbeat almost deafens her, time seemingly slowing down as she weaves between her enemy's attacks. With each brush with death her eyes flare with excitement, and her blade flares with anticipation. She seizes an opening to land a devastating strike, using her love for battle to feed her weapon's power her enemy is reduced to nothing but dust.
-Tumbling over onto his side after taking a heavy hit from his towering machine opponent, a man adorned in a trench coat and gas mask reaches down to a device connected to his abdomen and turns a valve. The hiss of pressure being released emanates from the device and he clambers to his feet letting out a muffled chuckle, a newfound vigor boiling inside him.
-A woman cries out in pain as the noose around her neck is tightened in preparation for her execution. She feels a sting as her siphon kicks into overdrive. Thinking fast and with a sudden silver tongue she looks to the crowd and screams a motivating speech. Stirring unrest and the taste for justice in their hearts with her words, the crowd sympathizes and rebels against her captors. Using the following mayhem she slips away into the shadows to fight another day.

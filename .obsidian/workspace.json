@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/7. General World Information/1. Time & Resting.md",
+                "file": "Chimera/1. Introduction/4. How To Play.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/7. General World Information/1. Time & Resting.md",
+                "file": "Chimera/1. Introduction/4. How To Play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/7. General World Information/1. Time & Resting.md",
+                "file": "Chimera/1. Introduction/4. How To Play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/7. General World Information/1. Time & Resting.md"
+                "file": "Chimera/1. Introduction/4. How To Play.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "fa96b73f4d3c753c",
   "lastOpenFiles": [
+    "Chimera/1. Introduction/3. What Are Chimeras.md",
+    "Chimera/1. Introduction/2. The Setting.md",
+    "Chimera/1. Introduction/1. What Is Chimera.md",
+    "Chimera/7. General World Information/1. Time & Resting.md",
     "Chimera/7. General World Information/2. Environmental Hazards.md",
     "Chimera/7. General World Information/3. Creature Types.md",
     "Chimera/7. General World Information/4. Sizes.md",
@@ -180,11 +184,7 @@
     "Chimera/2. Making Your Character/2. Classes/5. Bdellan.md",
     "Chimera/2. Making Your Character/2. Classes/4. Warden.md",
     "Chimera/2. Making Your Character/2. Classes/8. Neurodyad.md",
-    "Chimera/7. General World Information/1. Time & Resting.md",
     "Chimera/4. Factions/4. Faction Options.md",
-    "Chimera/4. Factions/3. Prestige.md",
-    "Chimera/4. Factions/2. Roles.md",
-    "Chimera/4. Factions/1. Allegiances.md",
     "balls",
     "Test File/balls.txt",
     "Test File/fuck you.txt",

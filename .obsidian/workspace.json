@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md",
+                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md",
+                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md",
+                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md"
+                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "fa96b73f4d3c753c",
   "lastOpenFiles": [
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
+    "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
+    "Chimera/1. Introduction/4. How To Play.md",
     "Chimera/1. Introduction/3. What Are Chimeras.md",
     "Chimera/1. Introduction/2. The Setting.md",
     "Chimera/1. Introduction/1. What Is Chimera.md",
@@ -171,7 +174,6 @@
     "Chimera/7. General World Information/5. Area of Effects.md",
     "Chimera/2. Making Your Character/2. Classes/1. Class Introduction.md",
     "Chimera/2. Making Your Character/2. Classes/3. Aschin.md",
-    "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
     "Chimera/9. Combat/4. Using Cover.md",
     "Chimera/9. Combat/3. Actions In Combat.md",
     "Chimera/9. Combat/2. Movement & Measuring.md",
@@ -183,8 +185,6 @@
     "Chimera/6. Socializing/1. Using Social Traits.md",
     "Chimera/2. Making Your Character/2. Classes/5. Bdellan.md",
     "Chimera/2. Making Your Character/2. Classes/4. Warden.md",
-    "Chimera/2. Making Your Character/2. Classes/8. Neurodyad.md",
-    "Chimera/4. Factions/4. Faction Options.md",
     "balls",
     "Test File/balls.txt",
     "Test File/fuck you.txt",

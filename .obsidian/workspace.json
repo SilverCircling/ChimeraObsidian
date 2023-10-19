@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/9. Combat/6. Damage Types & Status Effects.md",
+                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/9. Combat/6. Damage Types & Status Effects.md",
+                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/9. Combat/6. Damage Types & Status Effects.md"
+                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md"
               }
             }
           },
@@ -170,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce39fc66b9287415",
+  "active": "fa96b73f4d3c753c",
   "lastOpenFiles": [
+    "Chimera/9. Combat/6. Damage Types & Status Effects.md",
     "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
     "Chimera/7. General World Information/7. Senses.md",
     "Chimera/7. General World Information/6. Stealth.md",
@@ -188,7 +188,6 @@
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/3. Auto Rifle.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/2. Long Rifle.md",
     "Chimera/9. Combat/5. Damage, Healing, and Dying.md",
-    "Chimera/9. Combat/6. Damage Types & Status Effects.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
     "Chimera/9. Combat/3. Actions In Combat.md",
     "Chimera/9. Combat/4. Using Cover.md",

@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b5e94dbc89eb1301",
+        "id": "9703aebf8a7f2f63",
         "type": "tabs",
         "children": [
           {
-            "id": "fa96b73f4d3c753c",
+            "id": "dd9dddb383f742e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce39fc66b9287415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chimera/9. Combat/6. Damage Types & Status Effects.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -169,7 +153,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa96b73f4d3c753c",
+  "active": "7c83de0c1be51d73",
   "lastOpenFiles": [
     "Chimera/9. Combat/3. Actions In Combat.md",
     "Chimera/7. General World Information/7. Senses.md",

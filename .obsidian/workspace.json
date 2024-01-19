@@ -11,8 +11,12 @@
             "id": "dd9dddb383f742e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chimera/1. Introduction/4. How To Play.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
+                "file": "Chimera/1. Introduction/4. How To Play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
+                "file": "Chimera/1. Introduction/4. How To Play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md"
+                "file": "Chimera/1. Introduction/4. How To Play.md"
               }
             }
           },
@@ -131,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -153,34 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c83de0c1be51d73",
+  "active": "dd9dddb383f742e7",
   "lastOpenFiles": [
-    "Chimera/9. Combat/3. Actions In Combat.md",
-    "Chimera/7. General World Information/7. Senses.md",
-    "Chimera/7. General World Information/6. Stealth.md",
-    "Chimera/9. Combat/2. Movement & Measuring.md",
-    "Chimera/7. General World Information/5. Area of Effects.md",
-    "Chimera/7. General World Information/4. Sizes.md",
-    "Chimera/9. Combat/6. Damage Types & Status Effects.md",
-    "Chimera/7. General World Information/3. Creature Types.md",
-    "Chimera/7. General World Information/2. Environmental Hazards.md",
+    "Chimera/1. Introduction/1. What Is Chimera.md",
+    "Chimera/1. Introduction/4. How To Play.md",
+    "Chimera/1. Introduction/2. The Setting.md",
+    "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
+    "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
     "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
-    "Chimera/7. General World Information/1. Time & Resting.md",
     "Chimera/2. Making Your Character/2. Classes/3. Aschin.md",
-    "Chimera/9. Combat/1. The Structure of Combat.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/1. Handgun.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/4. Shotgun.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/3. Auto Rifle.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/2. Long Rifle.md",
-    "Chimera/9. Combat/5. Damage, Healing, and Dying.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
-    "Chimera/9. Combat/4. Using Cover.md",
-    "Chimera/2. Making Your Character/2. Classes/9. Sceofate.md",
-    "Chimera/2. Making Your Character/2. Classes/8. Neurodyad.md",
-    "Chimera/2. Making Your Character/2. Classes/7. Cerebotan.md",
-    "Chimera/2. Making Your Character/2. Classes/6. Inkborn.md",
-    "Chimera/2. Making Your Character/2. Classes/5. Bdellan.md",
     "Chimera/2. Making Your Character/2. Classes/4. Warden.md",
+    "Chimera/2. Making Your Character/2. Classes/5. Bdellan.md",
+    "Chimera/2. Making Your Character/2. Classes/6. Inkborn.md",
+    "Chimera/2. Making Your Character/2. Classes/7. Cerebotan.md",
+    "Chimera/2. Making Your Character/2. Classes/8. Neurodyad.md",
+    "Chimera/2. Making Your Character/2. Classes/9. Sceofate.md",
+    "Chimera/2. Making Your Character/2. Classes/1. Class Introduction.md",
+    "Chimera/2. Making Your Character/3. Prowesses/1. Prowess Introduction.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/3. Short Blade.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/4. Long Blunt.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/5. Short Blunt.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/2. Long Blade.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/6. Shield.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/1. Handgun.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/3. Auto Rifle.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/6. Bow.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/5. Auto Cannon.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/4. Shotgun.md",
     "balls",
     "Test File/balls.txt",
     "Test File/fuck you.txt",

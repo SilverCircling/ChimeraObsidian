@@ -1,0 +1,1 @@
+A visual bestiary including pictures of pawprints or other means of tracking specific creatures, as well as traits to look for in order to identify certain creatures. Identifying creatures is helpful because it helps with preparation and strategy, especially considering every creature should have some kind of weakness however literal or esoteric it is.

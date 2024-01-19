@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c19c1b75b32658ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea Notepad (Ainsley's Eyes Only!).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md",
+                "file": "Idea Notepad (Ainsley's Eyes Only!).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md",
+                "file": "Idea Notepad (Ainsley's Eyes Only!).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md"
+                "file": "Idea Notepad (Ainsley's Eyes Only!).md"
               }
             }
           },
@@ -159,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd9dddb383f742e7",
+  "active": "c19c1b75b32658ee",
   "lastOpenFiles": [
-    "Chimera/1. Introduction/1. What Is Chimera.md",
     "Chimera/1. Introduction/4. How To Play.md",
+    "Idea Notepad (Ainsley's Eyes Only!).md",
+    "Chimera/1. Introduction/1. What Is Chimera.md",
     "Chimera/1. Introduction/2. The Setting.md",
     "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
     "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
@@ -186,7 +200,6 @@
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/3. Auto Rifle.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/6. Bow.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/5. Auto Cannon.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/4. Shotgun.md",
     "balls",
     "Test File/balls.txt",
     "Test File/fuck you.txt",

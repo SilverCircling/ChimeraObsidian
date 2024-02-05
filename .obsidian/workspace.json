@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
+                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
+                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
+                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md"
+                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md"
               }
             }
           },
@@ -174,13 +174,18 @@
   },
   "active": "c19c1b75b32658ee",
   "lastOpenFiles": [
-    "Idea Notepad (Ainsley's Eyes Only!).md",
-    "Chimera/1. Introduction/4. How To Play.md",
-    "Chimera/1. Introduction/1. What Is Chimera.md",
-    "Chimera/1. Introduction/2. The Setting.md",
+    "Chimera/3. Customizing Your Character/1. Equipment/2. Armor.md",
+    "Chimera/3. Customizing Your Character/1. Equipment/3. Tools.md",
     "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
-    "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
+    "Idea Notepad (Ainsley's Eyes Only!).md",
     "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
+    "Chimera/1. Introduction/4. How To Play.md",
+    "Chimera/1. Introduction/3. What Are Chimeras.md",
+    "Chimera/1. Introduction/2. The Setting.md",
+    "Chimera/1. Introduction/1. What Is Chimera.md",
+    "Chimera/9. Combat/1. The Structure of Combat.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
+    "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
     "Chimera/2. Making Your Character/2. Classes/3. Aschin.md",
     "Chimera/2. Making Your Character/2. Classes/4. Warden.md",
     "Chimera/2. Making Your Character/2. Classes/5. Bdellan.md",
@@ -194,12 +199,7 @@
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/4. Long Blunt.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/5. Short Blunt.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/2. Long Blade.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/6. Shield.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/1. Handgun.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/3. Auto Rifle.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/6. Bow.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/5. Auto Cannon.md",
     "balls",
     "Test File/balls.txt",
     "Test File/fuck you.txt",

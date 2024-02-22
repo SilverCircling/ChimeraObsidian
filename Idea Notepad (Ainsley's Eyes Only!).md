@@ -18,6 +18,10 @@ Shift character creation mentality, requirements are okay to have. They make bui
 
 Make status effects interact with actions more.
 
+Identified Problems:
+- The way trait dice and their expenditure works as of current, it restricts the mechanical viability of certain *prime* character archetypes that a player may want to embody. For example, playing a big strong mountain of a character that uses a heavy mace, shield, and heavy armor (like the traditional paladin archetype) is not viable because you are mechanically forced to choose one trait for attacking and a different trait for defending. When trying to build an effective character you are discouraged from making these two main attacking and defending traits the same trait. Ergo, it is ineffective to use the strength based mace and the strength based shield together. This is a large problem particularly because of how much it goes against the traditional sense of character and class archetypes, which quickly becomes odd, frustrating, annoying, and anti-player/fun.
+- 
+
 Rethink social prowesses.
 
 Rethink weapon prowesses.

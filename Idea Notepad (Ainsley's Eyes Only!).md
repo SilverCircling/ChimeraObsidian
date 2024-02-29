@@ -11,7 +11,7 @@ Possibly drop the d10s in favor of d6s for a more practical and common dice type
 Adopt Pathfinder's trait based rule system for ease of balance and sorting.
 
 Look into changing critical rules, mainly how a critical success/failure is determined. The dichotomy of how impossible a critical is sometimes vs how easy they can be at other times is very jarring and not good for balance. Keeping the reduced poise cost on actions is nice, a good all around reward for criticals on actions other than dealing damage.
-- Currently, rolling double the VT of a check results in a critical success, and rolling under half the VT is a critical failure. 
+- Currently, rolling double the VT of a check results in a critical success, and rolling under half the VT is a critical failure. This is interesting because it makes getting a critical quite difficult but you can almost *choose* to critically succeed by expending all your dice on the one action.
 
 Simplify the combat coin and through the night systems, if nothing else their terminology.
 - Possibly drop the combat coin entirely in favor of a "shared initiative" system where before rolling initiative players can declare they want to roll together and take the average of their roll letting them share the same turn. Should fix the odd dichotomy between defense and attack "stun-lock". Must make sure to make sharing an initiative valuable in some way.

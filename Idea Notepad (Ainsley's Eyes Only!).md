@@ -2,11 +2,14 @@ A visual bestiary including pictures of pawprints or other means of tracking spe
 Misc Monster Notes (Insanity):
 - What would a creature with no through holes look like? Completely armored? How would it eat? How would it reproduce? (bed bug style)
 
+Maybe go back to the idea of entertaining different "realms" or "planes", perhaps rifts opened for some reason during the war that lead to other failed angel experiment worlds.
+- Desert world made completely barren by a species of extremely aggressive and adaptive bug aliens, similar to xenomorphs from alien or kythons from d&d
+
 TAKE INSPIRATION FROM STALKER, METRO, AND PACIFIC DRIVE!!!! Specifically the anomalies! If the angels fucked with evolution then they can fuck with other things like physics. Side thought: bdellans are unique mutants because they can control their mutations without the profound side effects of radiation poisoning. This means normal mutants are only possible because the rapid evolution has coincided with the effects of radiation to essentially allow a creature and its offspring to evolve faster than it can mutate which has allowed them to adapt to the effects of the radiation and use it rather than simply dying to its effects.
 
 Drop classes entirely in favor of the simplicity of a mix and match "lineage" system instead. Relegate all the cool class ability ideas to mods instead to really drive home the idea of looting, modding, and crafting (the whole idea of being a Chimera). Makes character creation easier, makes things easier for me the creator, allows for more interesting, powerful, and unique mods rather than spending all those ideas on core class features. Don't trash current class ideas, make them either lineages or creatures in the bestiary.
 
-Possibly drop the d10s in favor of d6s for a more practical and common dice type to reduce numerical bloat at higher stages of play. Consequently look into alternate means of applying the current "modifier dice" system.
+(SCRAPPED, I LIKE THE D10s) Possibly drop the d10s in favor of d6s for a more practical and common dice type to reduce numerical bloat at higher stages of play. Consequently look into alternate means of applying the current "modifier dice" system.
 
 Adopt Pathfinder's trait based rule system for ease of balance and sorting.
 

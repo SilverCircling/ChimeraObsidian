@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd9dddb383f742e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c19c1b75b32658ee",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,29 +161,29 @@
   },
   "active": "c19c1b75b32658ee",
   "lastOpenFiles": [
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/4. Shotgun.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/3. Short Blade.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/2. Long Rifle.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/3. Auto Rifle.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/4. Long Blunt.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/6. Shield.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/2. Long Blade.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/6. Bow.md",
+    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/5. Auto Cannon.md",
+    "Idea Notepad (Ainsley's Eyes Only!).md",
     "Chimera/7. General World Information/5. Area of Effects.md",
     "Chimera/7. General World Information/4. Sizes.md",
     "Chimera/7. General World Information/1. Time & Resting.md",
     "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
     "Chimera/6. Socializing/2. Sentient NPCs.md",
     "Chimera/6. Socializing/1. Using Social Traits.md",
-    "Idea Notepad (Ainsley's Eyes Only!).md",
     "Chimera/1. Introduction/4. How To Play.md",
     "Chimera/9. Combat/3. Actions In Combat.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/5. Short Blunt.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/6. Shield.md",
     "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
     "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/2. Long Blade.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/3. Short Blade.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/4. Long Blunt.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/5. Auto Cannon.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/2. Long Rifle.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/6. Bow.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/3. Auto Rifle.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/1. Handgun.md",
-    "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/4. Shotgun.md",
     "Chimera/9. Combat/2. Movement & Measuring.md",
     "Chimera/3. Customizing Your Character/1. Equipment/2. Armor.md",
     "Chimera/9. Combat/4. Using Cover.md",

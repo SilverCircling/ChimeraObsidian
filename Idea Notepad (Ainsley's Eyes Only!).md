@@ -34,6 +34,8 @@ Identified Problems:
 
 Rethink social prowesses.
 
+Armor prowesses(?)
+
 Rethink weapon prowesses.
 - Taking the prowess only gives you the prowess dice and the special action. All other abilities can become feats, allowing for more variation and specialization. This can include general feats like being able to take the Trip action with a ranged weapon, or specific feats that require prowess to take like the existing prowess abilities.
 

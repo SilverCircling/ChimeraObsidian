@@ -39,7 +39,11 @@ Rethink weapon prowesses.
 
 Add create cover action.
 
+Take inspiration from that one Elden Ring mod, specifically the concept of "generator spells". Genuinely genius, and I want to steal it. Kind of not related but also kind of related, what if you could sacrifice one of your trait dice for the rest of the adventuring day to regain some poise points. Interesting concept, cannibalizing your chances of success to stay in the fight. For example you could sacrifice one of your Dexterity trait dice until your next "long rest" and you cant use it until then, but upon sacrificing it you instantly regain 10pp.
 
+What if there was some kind of system where players needed to be somewhere specific or interact with something specific to recover their poise and HP, completely ripping the bonfire from souls games. Would be an extremely easy way to discourage mid-adventure resting in non-time sensitive adventures. Could make it real interesting, perhaps its some kind of giant crystal or obelisk that only chimeras can tap into that they keep safe at the heart of their base of operations. There could even be some mobile, weaker version they could carry around with them but could be destroyed and leave them stranded.
+
+INSPIRED!!!!!! What if chimeras are specifically people bestowed power over destiny as some kind of final gift to humanity by the renegade angels before they were destroyed. Chimeras are the physical embodiment of the freedom given to humanity by Lucifer. And because of whatever archaic and non-descript reasoning that is they can use these "crystals" we will call them for now because why not to recover much faster than normal people. This actually kind of plays into an aspect of the hunt I have not touched on, the art of wounding and hounding. A lot of the time after finally finding your quarry, you will injure it and it will get away and in this weakened state we continue to hunt until, in the real world, exhaustion and blood loss catch up.
 
 REDOING CHARACTER CREATION PROCESS
 - Keep weapon prowesses, possibly make them more mix and match rather than how rigid they are as of now. Possibly make even more if more can be thought of.

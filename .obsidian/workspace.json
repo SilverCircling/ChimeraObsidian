@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
+                "file": "Chimera/7. General World Information/5. Area of Effects.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
+                "file": "Chimera/7. General World Information/5. Area of Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
+                "file": "Chimera/7. General World Information/5. Area of Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md"
+                "file": "Chimera/7. General World Information/5. Area of Effects.md"
               }
             }
           },
@@ -174,6 +174,9 @@
   },
   "active": "c19c1b75b32658ee",
   "lastOpenFiles": [
+    "Chimera/7. General World Information/4. Sizes.md",
+    "Chimera/7. General World Information/1. Time & Resting.md",
+    "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
     "Chimera/6. Socializing/2. Sentient NPCs.md",
     "Chimera/6. Socializing/1. Using Social Traits.md",
     "Idea Notepad (Ainsley's Eyes Only!).md",
@@ -183,7 +186,6 @@
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/6. Shield.md",
     "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
     "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
-    "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/1. Unarmed.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/2. Long Blade.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/3. Short Blade.md",
@@ -198,8 +200,6 @@
     "Chimera/3. Customizing Your Character/1. Equipment/2. Armor.md",
     "Chimera/9. Combat/4. Using Cover.md",
     "Chimera/7. General World Information/7. Senses.md",
-    "Chimera/7. General World Information/6. Stealth.md",
-    "Chimera/7. General World Information/5. Area of Effects.md",
     "balls",
     "Test File/balls.txt",
     "Test File/fuck you.txt",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/9. Combat/3. Actions In Combat.md",
+                "file": "Chimera/9. Combat/6. Damage Types & Status Effects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/9. Combat/3. Actions In Combat.md",
+                "file": "Chimera/9. Combat/6. Damage Types & Status Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/9. Combat/3. Actions In Combat.md",
+                "file": "Chimera/9. Combat/6. Damage Types & Status Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/9. Combat/3. Actions In Combat.md"
+                "file": "Chimera/9. Combat/6. Damage Types & Status Effects.md"
               }
             }
           },
@@ -161,9 +161,11 @@
   },
   "active": "c19c1b75b32658ee",
   "lastOpenFiles": [
+    "Chimera/9. Combat/7. Synergy.md",
+    "Idea Notepad (Ainsley's Eyes Only!).md",
+    "Chimera/9. Combat/3. Actions In Combat.md",
     "Chimera/9. Combat/4. Using Cover.md",
     "Chimera/9. Combat/6. Damage Types & Status Effects.md",
-    "Idea Notepad (Ainsley's Eyes Only!).md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/4. Shotgun.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/3. Short Blade.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/2. Long Rifle.md",
@@ -181,12 +183,10 @@
     "Chimera/6. Socializing/2. Sentient NPCs.md",
     "Chimera/6. Socializing/1. Using Social Traits.md",
     "Chimera/1. Introduction/4. How To Play.md",
-    "Chimera/9. Combat/3. Actions In Combat.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/1. Melee Weapons/5. Short Blunt.md",
     "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
     "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
     "Chimera/2. Making Your Character/3. Prowesses/2. Weapon Prowesses/2. Ranged Weapons/1. Handgun.md",
-    "Chimera/9. Combat/2. Movement & Measuring.md",
     "balls",
     "Test File/balls.txt",
     "Test File/fuck you.txt",

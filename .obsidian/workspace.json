@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md",
+                "file": "Chimera/9. Combat/3. Actions In Combat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md",
+                "file": "Chimera/9. Combat/3. Actions In Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md",
+                "file": "Chimera/9. Combat/3. Actions In Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/1. Introduction/4. How To Play.md"
+                "file": "Chimera/9. Combat/3. Actions In Combat.md"
               }
             }
           },
@@ -161,9 +161,10 @@
   },
   "active": "c19c1b75b32658ee",
   "lastOpenFiles": [
+    "Chimera/9. Combat/6. Damage Types & Status Effects.md",
+    "Chimera/1. Introduction/4. How To Play.md",
     "Idea Notepad (Ainsley's Eyes Only!).md",
     "Chimera/9. Combat/3. Actions In Combat.md",
-    "Chimera/9. Combat/6. Damage Types & Status Effects.md",
     "Chimera/9. Combat/7. Synergy.md",
     "PoiseFlowchart1.png",
     "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
@@ -175,7 +176,6 @@
     "Chimera/2. Making Your Character/2. Classes/8. Neurodyad.md",
     "Chimera/2. Making Your Character/2. Classes/6. Inkborn.md",
     "Chimera/2. Making Your Character/2. Classes/4. Warden.md",
-    "Chimera/1. Introduction/4. How To Play.md",
     "Chimera/3. Customizing Your Character/2. Modding/1. Finding, Creating, & Upgrading Mods.md",
     "Chimera/3. Customizing Your Character/2. Modding/3. Mods & Components.md",
     "Chimera/3. Customizing Your Character/2. Modding/2. Cybernetic & Genetic.md",

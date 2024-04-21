@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/9. Combat/3. Actions In Combat.md",
+                "file": "Chimera/7. General World Information/4. Sizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/9. Combat/3. Actions In Combat.md",
+                "file": "Chimera/7. General World Information/4. Sizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/9. Combat/3. Actions In Combat.md",
+                "file": "Chimera/7. General World Information/4. Sizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/9. Combat/3. Actions In Combat.md"
+                "file": "Chimera/7. General World Information/4. Sizes.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "c19c1b75b32658ee",
   "lastOpenFiles": [
-    "Chimera/9. Combat/2. Movement & Measuring.md",
     "Chimera/9. Combat/3. Actions In Combat.md",
+    "Chimera/9. Combat/2. Movement & Measuring.md",
     "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
     "Chimera/2. Making Your Character/3. Prowesses/1. Prowess Introduction.md",
     "Chimera/2. Making Your Character/2. Classes/9. Sceofate.md",

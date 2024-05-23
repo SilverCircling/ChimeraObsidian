@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
+                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
+                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
+                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md"
+                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md"
               }
             }
           },
@@ -161,8 +161,12 @@
   },
   "active": "c19c1b75b32658ee",
   "lastOpenFiles": [
-    "Chimera/3. Customizing Your Character/1. Equipment/2. Armor.md",
+    "Chimera/2. Making Your Character/3. Prowesses/3. Social Prowesses/1. Ardor/Comet.md",
+    "Chimera/2. Making Your Character/2. Classes/1. Class Introduction.md",
+    "Chimera/1. Introduction/3. What Are Chimeras.md",
+    "Chimera/1. Introduction/4. How To Play.md",
     "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
+    "Chimera/3. Customizing Your Character/1. Equipment/2. Armor.md",
     "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
     "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
     "Chimera/7. General World Information/4. Sizes.md",
@@ -177,17 +181,13 @@
     "Chimera/2. Making Your Character/2. Classes/4. Warden.md",
     "Chimera/2. Making Your Character/2. Classes/3. Aschin.md",
     "Chimera/2. Making Your Character/2. Classes/2. Adrenokin.md",
-    "Chimera/2. Making Your Character/2. Classes/1. Class Introduction.md",
     "Chimera/1. Introduction/1. What Is Chimera.md",
-    "Chimera/1. Introduction/4. How To Play.md",
-    "Chimera/1. Introduction/3. What Are Chimeras.md",
     "Chimera/1. Introduction/2. The Setting.md",
     "Chimera/9. Combat/5. Damage, Healing, and Dying.md",
     "Chimera/9. Combat/6. Damage Types & Status Effects.md",
     "Idea Notepad (Ainsley's Eyes Only!).md",
     "Chimera/9. Combat/7. Synergy.md",
     "PoiseFlowchart1.png",
-    "Chimera/3. Customizing Your Character/2. Modding/1. Finding, Creating, & Upgrading Mods.md",
     "balls",
     "Test File/balls.txt",
     "Test File/fuck you.txt",

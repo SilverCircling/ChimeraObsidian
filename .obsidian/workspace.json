@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
+                "file": "Chimera/7. General World Information/5. Area of Effects.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "198f1f95ef6ec96c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
+                "file": "Chimera/7. General World Information/5. Area of Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
+                "file": "Chimera/7. General World Information/5. Area of Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md"
+                "file": "Chimera/7. General World Information/5. Area of Effects.md"
               }
             }
           },
@@ -161,6 +162,7 @@
   },
   "active": "c19c1b75b32658ee",
   "lastOpenFiles": [
+    "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
     "Chimera/2. Making Your Character/3. Prowesses/3. Social Prowesses/1. Ardor/Comet.md",
     "Chimera/2. Making Your Character/2. Classes/1. Class Introduction.md",
     "Chimera/1. Introduction/3. What Are Chimeras.md",
@@ -168,7 +170,6 @@
     "Chimera/2. Making Your Character/1. Character Basics/2. Health, Poise, & Hit VT.md",
     "Chimera/3. Customizing Your Character/1. Equipment/2. Armor.md",
     "Chimera/2. Making Your Character/1. Character Basics/1. Traits.md",
-    "Chimera/3. Customizing Your Character/1. Equipment/1. Weapons.md",
     "Chimera/7. General World Information/4. Sizes.md",
     "Chimera/9. Combat/3. Actions In Combat.md",
     "Chimera/9. Combat/2. Movement & Measuring.md",
